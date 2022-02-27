@@ -1,0 +1,18 @@
+.video__comments{
+    display:flex;
+    flex-direction: column;
+    max-width:320px;
+    width:100%;
+    margin:0 auto;
+    margin-top:20px;
+    .video__comment{
+        padding:10px;
+        border-radius: 9999px;
+        background-color: rgba(0,0,0,0.1);
+        color: blacks;
+        margin-bottom:10px;
+    }
+    i{
+        color:rgb(136, 136, 72);
+    }
+}
